@@ -1,2 +1,2 @@
 # projetos-realizados
-Postar os projetos com Pytohn
+Postar os conceitos dos projetos já realizados
